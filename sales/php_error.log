@@ -1,0 +1,10 @@
+[18-Oct-2024 12:50:47 UTC] PHP Warning:  Undefined variable $metric in /home/admin.gwamerchandise.com/public_html/sales/process_sales.php on line 284
+[18-Oct-2024 12:51:29 UTC] PHP Warning:  Undefined variable $metric in /home/admin.gwamerchandise.com/public_html/sales/process_sales.php on line 284
+[18-Oct-2024 12:52:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Out of range value for column 'cost' at row 1 in /home/admin.gwamerchandise.com/public_html/sales/process_sales.php:26
+Stack trace:
+#0 /home/admin.gwamerchandise.com/public_html/sales/process_sales.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/admin.gwamerchandise.com/public_html/sales/process_sales.php on line 26
+[20-Oct-2024 14:07:36 UTC] PHP Warning:  Undefined variable $metric in /home/admin.gwamerchandise.com/public_html/sales/process_sales.php on line 284
+[20-Oct-2024 14:08:04 UTC] PHP Warning:  Undefined variable $metric in /home/admin.gwamerchandise.com/public_html/sales/process_sales.php on line 284
+[24-Oct-2024 14:28:02 UTC] PHP Warning:  Undefined variable $metric in /home/admin.gwamerchandise.com/public_html/sales/process_sales.php on line 284

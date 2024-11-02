@@ -1,0 +1,30 @@
+[24-Oct-2024 14:02:11 UTC] PHP Warning:  Undefined variable $pdo in /home/admin.gwamerchandise.com/public_html/core/core3edit.php on line 9
+[24-Oct-2024 14:02:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/admin.gwamerchandise.com/public_html/core/core3edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/admin.gwamerchandise.com/public_html/core/core3edit.php on line 9
+[24-Oct-2024 14:16:07 UTC] PHP Warning:  Undefined variable $pdo in /home/admin.gwamerchandise.com/public_html/core/core3edit.php on line 9
+[24-Oct-2024 14:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/admin.gwamerchandise.com/public_html/core/core3edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/admin.gwamerchandise.com/public_html/core/core3edit.php on line 9
+[24-Oct-2024 14:20:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':id' at line 1 in /home/admin.gwamerchandise.com/public_html/core/core3edit.php:10
+Stack trace:
+#0 /home/admin.gwamerchandise.com/public_html/core/core3edit.php(10): mysqli->prepare()
+#1 {main}
+  thrown in /home/admin.gwamerchandise.com/public_html/core/core3edit.php on line 10
+[27-Oct-2024 08:05:09 UTC] PHP Warning:  unlink(uploads/hii): No such file or directory in /home/admin.gwamerchandise.com/public_html/core/core1.php on line 75
+[27-Oct-2024 08:05:25 UTC] PHP Warning:  unlink(uploads/ANSWER.docx): No such file or directory in /home/admin.gwamerchandise.com/public_html/core/core1.php on line 75
+[27-Oct-2024 08:05:25 UTC] PHP Warning:  unlink(uploads/APPOINTMENT LETTER.docx): No such file or directory in /home/admin.gwamerchandise.com/public_html/core/core1.php on line 75
+[27-Oct-2024 08:05:37 UTC] PHP Warning:  unlink(uploads/bebe): No such file or directory in /home/admin.gwamerchandise.com/public_html/core/core1.php on line 75
+[27-Oct-2024 11:09:35 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/admin.gwamerchandise.com/public_html/auth_check.php on line 2
+[27-Oct-2024 11:39:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/admin.gwamerchandise.com/public_html/auth_check.php on line 2
+[27-Oct-2024 12:07:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/admin.gwamerchandise.com/public_html/auth_check.php on line 2
+[27-Oct-2024 12:07:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/admin.gwamerchandise.com/public_html/auth_check.php on line 2
+[31-Oct-2024 03:56:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/admin.gwamerchandise.com/public_html/auth_check.php on line 2
+[31-Oct-2024 04:18:10 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/admin.gwamerchandise.com/public_html/auth_check.php on line 2
+[31-Oct-2024 04:18:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/admin.gwamerchandise.com/public_html/auth_check.php on line 2
+[31-Oct-2024 04:18:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/admin.gwamerchandise.com/public_html/auth_check.php on line 2
+[31-Oct-2024 04:18:35 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/admin.gwamerchandise.com/public_html/auth_check.php on line 2
+[31-Oct-2024 04:54:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/admin.gwamerchandise.com/public_html/auth_check.php on line 2
+[31-Oct-2024 04:54:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/admin.gwamerchandise.com/public_html/auth_check.php on line 2
