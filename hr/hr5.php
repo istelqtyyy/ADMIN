@@ -1,6 +1,4 @@
 <?php
-// Start session
-session_start();
 
 include '../dbconnect.php';
 include '../auth_check.php';
