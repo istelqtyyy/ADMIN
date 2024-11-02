@@ -96,5 +96,5 @@
         </div>
     </div>
 </div>
-<!-- YOW -->
+
 <?php include 'include/footer.php'; ?>
